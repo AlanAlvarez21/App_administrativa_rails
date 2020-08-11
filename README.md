@@ -1,5 +1,7 @@
 # README
 
+se crearon 3 controladores categorias(Category), proveedores(Supplier) y clientes(Client)funcionando perfectamente con CRUD y con sus respectivas vistas y se implemento un log in con la gema devise
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
